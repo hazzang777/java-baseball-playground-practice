@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.hardy.baseball.BallTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-10T13:09:36" hostname="hachanghyeon-ui-MacBookAir.local" time="0.028">
+  <properties/>
+  <testcase name="nothing()" classname="me.hardy.baseball.BallTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
